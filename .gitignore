@@ -5,3 +5,12 @@ __pycache__
 .gitattributes
 !*.zip
 /data
+*.ipynb
+zippedData/bom.movie_gross.csv/bom.movie_gross.csv
+zippedData/rt.movie_info.tsv/rt.movie_info.tsv
+zippedData/rt.reviews.tsv/rt.reviews.tsv
+zippedData/tmdb.movies.csv/tmdb.movies.csv
+zippedData/tn.movie_budgets.csv/tn.movie_budgets.csv
+student.ipynb
+destination_directory/im.db
+zippedData/im.db/im.db
